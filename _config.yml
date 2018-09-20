@@ -19,7 +19,7 @@ repository: huangyijun111/huangyijun111.github.io
 github_url: https://github.com/huangyijun111
 cnblog_url: http://www.cnblogs.com/ityouknow
 url: http://www.huangyijun111.com
-enforce_ssl: ityouknow.com
+enforce_ssl: huangyijun111.com
 
 ## Gem
 plugins:
